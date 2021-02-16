@@ -1,0 +1,6 @@
+.imgSelectorPreview {
+	background: url('') center center no-repeat;
+	height: 100px;
+	background-size: contain;
+	border: 1px dashed #ccc;
+}

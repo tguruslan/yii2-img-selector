@@ -1,0 +1,24 @@
+{
+    "name": "tguruslan/yii2-img-selector",
+    "description": "Yii2 widget ImgSelector",
+    "keywords": ["yii2", "widget"],
+    "type": "yii2-extension",
+    "support": {
+        "source": "https://github.com/tguruslan/yii2-img-selector",
+        "issues": "https://github.com/tguruslan/yii2-img-selector/issues"
+    },
+    "authors": [
+        {
+            "name": "Tguruslan",
+            "homepage": "https://github.com/tguruslan/"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "tguruslan\\yii2\\imgSelector\\": ""
+        }
+    }
+}
